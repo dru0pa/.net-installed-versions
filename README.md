@@ -1,1 +1,1 @@
-# .net-installed-vertions
+# .net-installed-versions
