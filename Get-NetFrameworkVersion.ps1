@@ -33,7 +33,8 @@ function Get-DotNetFrameworkVersion
         '461808' = @{ Version = [System.Version]'4.7.0356';                                               }
         '528040' = @{ Version = [System.Version]'4.8'     ; Comment = '(Windows 10 November 2019 Update)' }
         '528372' = @{ Version = [System.Version]'4.8'     ; Comment = '(Windows 10 October 2020 Update)'  }
-        '528049' = @{ Version = [System.Version]'4.8'     ; Comment = '(On all other Windows O S)'        }
+        '528049' = @{ Version = [System.Version]'4.8'     ; Comment = '(On all other Windows O S)'}
+        '533320' = @{ Version = [System.Version]'4.8.1'     ; Comment = '(NET Framework 4.8.1)'}
     }
 
     foreach($computer in $ComputerName)
