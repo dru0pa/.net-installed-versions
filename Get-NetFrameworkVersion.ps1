@@ -2,7 +2,7 @@
         Script Name	: Get-NetFrameworkVersion.ps1
         Description	: This script reports the various .NET Framework versions installed on the local or a remote computer.
         Author		: Martin Schvartzman
-        Updared by  : Andrew Price
+        Updated by  : Andrew Price
         Reference   : https://msdn.microsoft.com/en-us/library/hh925568
 #>
 function Get-DotNetFrameworkVersion
