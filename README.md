@@ -1,4 +1,4 @@
 # .net-installed-versions
-This is just an update to a PowerShell script to inclued .net 4.8
-I have not writen the skript just updated.
-It was writedn by Martin Schvartzman
+This is just an update to a PowerShell script to include .net 4.8
+I have not written the script just updated it.
+It was written by Martin Schvartzman
